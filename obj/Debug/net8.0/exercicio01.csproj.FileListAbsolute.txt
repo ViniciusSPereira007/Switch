@@ -1,0 +1,14 @@
+C:\Users\gilva\source\repos\exercicio01\obj\Debug\net8.0\exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilva\source\repos\exercicio01\obj\Debug\net8.0\exercicio01.AssemblyInfoInputs.cache
+C:\Users\gilva\source\repos\exercicio01\obj\Debug\net8.0\exercicio01.AssemblyInfo.cs
+C:\Users\gilva\source\repos\exercicio01\obj\Debug\net8.0\exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\gilva\source\repos\exercicio01\bin\Debug\net8.0\exercicio01.exe
+C:\Users\gilva\source\repos\exercicio01\bin\Debug\net8.0\exercicio01.deps.json
+C:\Users\gilva\source\repos\exercicio01\bin\Debug\net8.0\exercicio01.runtimeconfig.json
+C:\Users\gilva\source\repos\exercicio01\bin\Debug\net8.0\exercicio01.dll
+C:\Users\gilva\source\repos\exercicio01\bin\Debug\net8.0\exercicio01.pdb
+C:\Users\gilva\source\repos\exercicio01\obj\Debug\net8.0\exercicio01.dll
+C:\Users\gilva\source\repos\exercicio01\obj\Debug\net8.0\refint\exercicio01.dll
+C:\Users\gilva\source\repos\exercicio01\obj\Debug\net8.0\exercicio01.pdb
+C:\Users\gilva\source\repos\exercicio01\obj\Debug\net8.0\exercicio01.genruntimeconfig.cache
+C:\Users\gilva\source\repos\exercicio01\obj\Debug\net8.0\ref\exercicio01.dll
